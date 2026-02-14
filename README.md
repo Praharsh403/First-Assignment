@@ -1,9 +1,18 @@
-# First-Assignment
-Basic Python Concepts
-This repository contains two Python programs:
+Assignment 2 – Module 3: Control Structures in Python
+Overview
 
-1. Task 1: A program that takes two numbers from the user and performs
-   addition, subtraction, multiplication, and division.
+This repository contains two Python programs demonstrating the use of control structures such as conditional statements and loops.
 
-2. Task 2: A program that takes the user's first and last name and prints
-   a personalized greeting message.
+Task 1: Even or Odd Checker
+
+Takes an integer input from the user.
+
+Uses an if-else statement to determine whether the number is even or odd.
+
+Displays the result.
+
+Task 2: Sum of Numbers (1–50)
+
+Uses a for loop to iterate from 1 to 50.
+
+Calculates and displays the total sum of these numbers.
